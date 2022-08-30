@@ -1,6 +1,6 @@
 import importlib
 import sys
-from unicodedata import name importlib
+
 from pathlib import Path
 
 def load_module(directory, name):
